@@ -15,6 +15,7 @@ class Test7Screen extends StatelessWidget {
               Icon(Icons.person),
               Icon(Icons.settings),
               Icon(Icons.credit_card),
+              Icon(Icons.add),
             ],
             iconColor: Colors.white,
             borderRadius: BorderRadius.circular(10),
