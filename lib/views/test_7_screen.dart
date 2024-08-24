@@ -14,7 +14,7 @@ class Test7Screen extends StatelessWidget {
             icons: const [
               Icon(Icons.person),
               Icon(Icons.settings),
-              Icon(Icons.credit_card),
+              Icon(Icons.abc),
               Icon(Icons.add),
             ],
             iconColor: Colors.white,
